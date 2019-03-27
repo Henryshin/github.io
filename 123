@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+</head>
+<body>
+    <a href=http://www.naver.com>네이버</a>
+    <a href=hello.html>안녕하세요</a>
+    #위에꺼는 절대경로, 밑에꺼는 상대경로
+    <img src="C:\Users\klplm\Pictures\3x4.jpg" height = "30" width = "40">
+    <form action = "전송받을 대상">
+        <input type = "text" name = "Helloworld">
+        <textarea cols="1000", rows="20"></textarea>
+        <select>
+            <option>
+                좋아요
+            </option>
+            <option>
+                좋아요
+            </option>
+            <option>
+                좋아요
+            </option>
+        </select>
+    </form>       
+
+</body>
+</html>
